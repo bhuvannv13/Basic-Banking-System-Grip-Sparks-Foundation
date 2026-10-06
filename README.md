@@ -1,8 +1,24 @@
-# Basic-Banking-System-Grip-Sparks-Foundation
-This  task Basic banking sysytem by GRIP@sparks foundation held between 5/7/21-21/7/21.
-Sparks Foundation Web Development Internship Project : Basic Banking System website. A web application used to tranfer virtual money between multiple users and also record the banking transactions/ activities.
+# Basic Banking System
 
-The website has the following specification -
-Start with a dummy data for upto 10 customers. Customers table with basic fields such as name, email, current balance etc. Transaction status: Transfer table/ Transfer History which records all the transactions
+A simple banking website built for the Web Development internship task at The Sparks Foundation (GRIP), 5 to 21 July 2021. It lists customers and lets you transfer virtual money between them.
 
-Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
+## Task brief
+
+- Start with dummy data for up to 10 customers
+- A customers table with basic fields such as name, email and current balance
+- A transfer history that records transactions
+
+Flow: Home Page > View all customers > Select and view one customer > Transfer money > Select customer to transfer to > View all customers.
+
+## Pages
+
+| File | Purpose |
+|---|---|
+| `Home.html` | Landing page |
+| `Moneytransfer.html` | All accounts and money transfer |
+| `profile.html` | Customer profile card |
+| `aboutus.html` | About page |
+
+## Running it
+
+Open `Home.html` in a browser. The site is built with plain HTML, CSS and JavaScript and needs no build step.
