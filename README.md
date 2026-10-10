@@ -22,3 +22,7 @@ Flow: Home Page > View all customers > Select and view one customer > Transfer m
 ## Running it
 
 Open `Home.html` in a browser. The site is built with plain HTML, CSS and JavaScript and needs no build step.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
